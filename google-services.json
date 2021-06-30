@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419598857956",
+    "project_id": "smart-house-2f3a8",
+    "storage_bucket": "smart-house-2f3a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419598857956:android:d74e0c1e8863f10b3c9ef1",
+        "android_client_info": {
+          "package_name": "com.ahmadalkharfan.smarthouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419598857956-tbknl3i31c8l898virla6vrblubt4nkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGBgS8AuYUJZ__6ua6I89L0WrYhl9vSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419598857956-tbknl3i31c8l898virla6vrblubt4nkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
